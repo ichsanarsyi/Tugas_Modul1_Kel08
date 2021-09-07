@@ -1,0 +1,48 @@
+body
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(bg.jpg);
+    text-align:left;
+    color:#a1b0bf;
+    margin:3%;
+}
+
+h2,h5{
+    text-align: center;
+}
+img.logo
+{
+	height: 5em;
+	width: 5em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+
+    margin-left: 15%;
+    margin-top: 3%;
+}
+label{
+    margin-left: 15%;
+    margin-top: 3%;
+}
+input{
+    margin:0.4%;
+    padding:0.5%;
+    width: 200px;
+}
+.a{
+    margin-left: 15%;
+}
+.submit{
+    margin-left: 10%;
+    background-color: #a5c5e6;
+    cursor: pointer;
+    align-items: right;
+    width: 200px;
+}
+.submit:hover{
+    background-color: #a1b0bf;
+}
